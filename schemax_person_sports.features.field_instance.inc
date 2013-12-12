@@ -132,7 +132,7 @@ function schemax_person_sports_field_default_field_instances() {
   // Included for use with string extractors like potx.
   t('Certifications');
   t('Player ID');
-  t('Team Role(s)');
+  t('Team Roles');
 
   return $field_instances;
 }

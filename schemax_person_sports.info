@@ -17,4 +17,4 @@ features[field_instance][] = node-schemax_person-field_schemax_certifications
 features[field_instance][] = node-schemax_person-field_schemax_player_id
 features[field_instance][] = node-schemax_person-field_schemax_team_roles
 features[taxonomy][] = certifications
-features[taxonomy][] = team_role
+features[taxonomy][] = team_roles

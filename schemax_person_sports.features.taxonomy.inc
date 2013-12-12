@@ -32,10 +32,10 @@ function schemax_person_sports_taxonomy_default_vocabularies() {
         ),
       ),
     ),
-    'team_role' => array(
-      'name' => 'Team Role',
-      'machine_name' => 'team_role',
-      'description' => 'Role(s) of a person on a team',
+    'team_roles' => array(
+      'name' => 'Team Roles',
+      'machine_name' => 'team_roles',
+      'description' => 'Roles of a person on a team',
       'hierarchy' => 0,
       'module' => 'taxonomy',
       'weight' => 0,
